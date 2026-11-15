@@ -19,7 +19,7 @@ export const DATA = {
   summary:
     "I'm a UI/UX Engineer and Product Designer focused on creating digital experiences where design, technology and AI come together. My experience is rooted in the media industry, where I've designed and developed AI-powered solutions, web and mobile products, and 50+ digital experiences across TV Derana and its related brands. I also work across FinTech, CRM, LMS, e-commerce and business management, turning complex requirements into simple, scalable and user-friendly products for clients in Sri Lanka, the UK and Australia. With a [Software Engineering background](/#education) and hands-on experience with Figma, Next.js, Tailwind, WordPress, Framer and Webflow, I bridge the gap between design and development. Some of the products I've worked on have been [recognized at BestWeb.lk and the National AI Awards](/#hackathons).",
   // Put your photo at /public/me.png (square, at least 400x400). Until then your initials show.
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/me.webp",
   skills: [
     { name: "Figma", logo: "/skills/figma.svg" },
     { name: "Next.js", icon: NextjsIconDark },
@@ -95,7 +95,7 @@ export const DATA = {
       badges: [],
       location: "Colombo, Sri Lanka",
       title: "Senior UI/UX Engineer (Executive Grade)",
-      logoUrl: "/work/macro-labs.jpg",
+      logoUrl: "/work/macro-labs.webp",
       start: "June 2026",
       end: "Present",
       description: "[Add your key responsibilities and products in this role.]",
@@ -106,7 +106,7 @@ export const DATA = {
       badges: [],
       location: "Colombo, Sri Lanka",
       title: "UI/UX Engineer (Executive Grade)",
-      logoUrl: "/work/macro-labs.jpg",
+      logoUrl: "/work/macro-labs.webp",
       start: "June 2025",
       end: "June 2026",
       description: "[Add your key responsibilities and products in this role.]",
@@ -117,7 +117,7 @@ export const DATA = {
       badges: [],
       location: "Colombo, Sri Lanka",
       title: "UI/UX Engineer",
-      logoUrl: "/work/derana.jpg",
+      logoUrl: "/work/derana.webp",
       start: "January 2024",
       end: "January 2025",
       description:
@@ -129,7 +129,7 @@ export const DATA = {
       badges: [],
       location: "Colombo, Sri Lanka",
       title: "Associate UI/UX Engineer",
-      logoUrl: "/work/derana.jpg",
+      logoUrl: "/work/derana.webp",
       start: "September 2023",
       end: "January 2024",
       description: "[Add your key responsibilities and products in this role.]",
@@ -140,7 +140,7 @@ export const DATA = {
       badges: [],
       location: "Colombo, Sri Lanka",
       title: "Associate UI/UX Designer",
-      logoUrl: "/work/derana.jpg",
+      logoUrl: "/work/derana.webp",
       start: "January 2023",
       end: "September 2023",
       description: "[Add your key responsibilities and products in this role.]",
@@ -151,7 +151,7 @@ export const DATA = {
       badges: [],
       location: "Sri Lanka",
       title: "System Maintainer",
-      logoUrl: "/work/amt.jpg",
+      logoUrl: "/work/amt.webp",
       start: "January 2022",
       end: "February 2023",
       description: "[Add your key responsibilities in this role.]",
@@ -162,7 +162,7 @@ export const DATA = {
       school: "Cardiff Metropolitan University",
       href: "https://www.cardiffmet.ac.uk",
       degree: "BSc in Software Engineering",
-      logoUrl: "/education/cardiff-met.jpg",
+      logoUrl: "/education/cardiff-met.webp",
       start: "2022",
       end: "2023",
     },
@@ -170,7 +170,7 @@ export const DATA = {
       school: "SQA: Scottish Qualifications Authority",
       href: "https://www.sqa.org.uk",
       degree: "HND in Computer Science",
-      logoUrl: "/education/sqa.jpg",
+      logoUrl: "/education/sqa.webp",
       start: "2020",
       end: "2022",
     },
@@ -178,7 +178,7 @@ export const DATA = {
       school: "ICBT Campus",
       href: "https://icbt.lk",
       degree: "Bachelor of Software Engineering",
-      logoUrl: "/education/icbt.png",
+      logoUrl: "/education/icbt.webp",
       start: "",
       end: "",
     },
@@ -186,7 +186,7 @@ export const DATA = {
       school: "Saegis Campus",
       href: "https://www.saegis.ac.lk",
       degree: "Computer Science",
-      logoUrl: "/education/saegis.jpg",
+      logoUrl: "/education/saegis.webp",
       start: "2021",
       end: "2022",
     },
@@ -194,7 +194,7 @@ export const DATA = {
       school: "D. S. Senanayake College",
       href: "",
       degree: "[Qualification, e.g. G.C.E. A/L]",
-      logoUrl: "/education/ds-senanayake.png",
+      logoUrl: "/education/ds-senanayake.webp",
       start: "",
       end: "",
     },
@@ -208,7 +208,7 @@ export const DATA = {
       dates: "May 2025 – Present",
       description: "Redesigned and delivered a modern digital news experience for Ada Derana Sinhala, Ada Derana English and Ada Derana Tamil.",
       technologies: ["Figma", "Next.js", "Tailwind CSS", "React", "Framer Motion", "AWS"],
-      image: "/projects/ada-derana-digital-platforms.png",
+      image: "/projects/ada-derana-digital-platforms.webp",
     }),
     project({
       title: "Ada Derana One CMS: AI-Powered CMS",
@@ -216,7 +216,7 @@ export const DATA = {
       dates: "May 2025 – Present",
       description: "Ada Derana One CMS is the central content management system powering Ada Derana's main news websites across Sinhala, English, Tamil, Biz Sinhala and Biz English.",
       technologies: ["Figma", "Next.js", "Tailwind CSS", "React", "NestJS", "AWS"],
-      image: "/projects/ada-derana-one-cms.jpg",
+      image: "/projects/ada-derana-one-cms.webp",
     }),
     project({
       title: "Pixel Ceylon",
@@ -224,7 +224,7 @@ export const DATA = {
       dates: "June 2026",
       description: "Website for a web development company.",
       technologies: ["Figma", "Next.js", "Tailwind CSS", "React"],
-      image: "/projects/pixel-ceylon.png",
+      image: "/projects/pixel-ceylon.webp",
     }),
     project({
       title: "Vauxhall Court Care Home",
@@ -240,7 +240,7 @@ export const DATA = {
       dates: "August 2026",
       description: "Sen Destinations is a premier Destination Management Company headquartered in Colombo.",
       technologies: ["Figma", "WordPress"],
-      image: "/projects/sen-destinations.png",
+      image: "/projects/sen-destinations.webp",
     }),
   ],
   // Shown in the "Awards & Achievements" timeline (the original Hackathons section).
@@ -251,7 +251,7 @@ export const DATA = {
       location: "Sri Lanka",
       description:
         "Received the Bronze Award at the National AI Awards 2026 for contributing to Ada Derana OneCMS, an AI-powered media solution developed by Macro Labs under Derana MacroEntertainment.\n\nOneCMS powers Ada Derana's digital news operations and integrates AI into the media workflow through features such as Multilingual AI Summaries, Language-Specific AI Voice, Narrative Audio, Story Intelligence, and Intelligent News Search.\n\nThe solution helps improve news production efficiency, content accessibility, and the overall digital news experience for users across multiple languages.\n\nRecognised under the Industry & Sector Excellence Awards – Best AI Solution in Media category.",
-      image: "/awards/national-ai-expo.jpg",
+      image: "/awards/national-ai-expo.webp",
       links: [],
     },
     {
@@ -260,7 +260,7 @@ export const DATA = {
       location: "Aruna.lk",
       description:
         "Proud to have received two prestigious recognitions at the BestWeb.lk 2026 Awards, celebrating excellence in digital innovation and user experience.\n\n🏆 Winner – Best Mobile User Experience (Media & Entertainment Website)\n🥉 Bronze Winner – Best Media & Entertainment Website\n\nAs the Senior UI/UX Engineer, I played a key role in designing and delivering a seamless, user-centric digital experience by leading the UI/UX strategy, improving usability, building scalable design systems, and ensuring responsive, accessible interfaces across platforms.",
-      image: "/awards/bestweb.png",
+      image: "/awards/bestweb.webp",
       links: [],
     },
     {
@@ -269,7 +269,7 @@ export const DATA = {
       location: "Liberty Publishers (Pvt) Ltd",
       description:
         "Recognising the digital excellence of Liberty Publishers (Pvt) Ltd at the 27th Journalism Awards for Excellence 2025.\n\n• Aruna.lk – Winner of Best News Website among Sinhala Newspapers.\n• Thamilan.lk – Winner of Best News Website among Tamil Newspapers.\n• Aruna.lk – Merit Certificate for Best Video Storytelling (Sinhala).",
-      image: "/awards/slpi.jpg",
+      image: "/awards/slpi.webp",
       links: [],
     },
     {
@@ -277,7 +277,7 @@ export const DATA = {
       dates: "2024",
       location: "Thamilan.lk / Aruna.lk",
       description: "Best Mobile User Experience Website in the Media, Sports & Entertainment category.",
-      image: "/awards/bestweb.png",
+      image: "/awards/bestweb.webp",
       links: [],
     },
     {
@@ -285,7 +285,7 @@ export const DATA = {
       dates: "2023",
       location: "TheMorning.lk & Thamilan.lk",
       description: "Recognized for the design of the TheMorning.lk and Thamilan.lk news websites.",
-      image: "/awards/slpi.jpg",
+      image: "/awards/slpi.webp",
       links: [],
     },
   ] as {

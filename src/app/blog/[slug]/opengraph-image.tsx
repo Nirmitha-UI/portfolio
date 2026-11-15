@@ -35,13 +35,12 @@ const getFontData = async () => {
     }
 };
 
+// OG renderer can't decode WebP, so use the JPG copy of the avatar.
 const getAvatarDataUrl = async () => {
     if (!DATA.avatarUrl) return null;
     try {
-        const file = await readFile(join(process.cwd(), "public", DATA.avatarUrl));
-        const ext = DATA.avatarUrl.split(".").pop()?.toLowerCase();
-        const mime = ext === "png" ? "image/png" : "image/jpeg";
-        return `data:${mime};base64,${file.toString("base64")}`;
+        const file = await readFile(join(process.cwd(), "public/me-og.jpg"));
+        return `data:image/jpeg;base64,${file.toString("base64")}`;
     } catch {
         return null;
     }
