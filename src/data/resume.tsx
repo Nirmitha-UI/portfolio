@@ -15,9 +15,9 @@ export const DATA = {
   location: "Malabe, Sri Lanka",
   locationLink: "https://www.google.com/maps/place/Malabe",
   description:
-    "UI/UX Engineer, Product Designer and Web Developer from Sri Lanka. I design and build web, mobile and AI-powered products.",
+    "Senior UI/UX Engineer, Product Designer and Web Developer from Sri Lanka. I design and build web, mobile and AI-powered products.",
   summary:
-    "I'm a UI/UX Engineer and Product Designer focused on creating digital experiences where design, technology and AI come together. My experience is rooted in the media industry, where I've designed and developed AI-powered solutions, web and mobile products, and 50+ digital experiences across TV Derana and its related brands. I also work across FinTech, CRM, LMS, e-commerce and business management, turning complex requirements into simple, scalable and user-friendly products for clients in Sri Lanka, the UK and Australia. With a [Software Engineering background](/#education) and hands-on experience with Figma, Next.js, Tailwind, WordPress, Framer and Webflow, I bridge the gap between design and development. Some of the products I've worked on have been [recognized at BestWeb.lk and the National AI Awards](/#hackathons).",
+    "I'm a Senior UI/UX Engineer and Product Designer focused on creating digital experiences where design, technology and AI come together. My experience is rooted in the media industry, where I've designed and developed AI-powered solutions, web and mobile products, and 50+ digital experiences across TV Derana and its related brands. I also work across FinTech, CRM, LMS, e-commerce and business management, turning complex requirements into simple, scalable and user-friendly products for clients in Sri Lanka, the UK and Australia. With a [Software Engineering background](/#education) and hands-on experience with Figma, Next.js, Tailwind, WordPress, Framer and Webflow, I bridge the gap between design and development. Some of the products I've worked on have been [recognized at BestWeb.lk and the National AI Awards](/#hackathons).",
   // Put your photo at /public/me.png (square, at least 400x400). Until then your initials show.
   avatarUrl: "/me.webp",
   skills: [
